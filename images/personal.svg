@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Illustration of a personal trainer with a client">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#191b19"/><stop offset="1" stop-color="#0b0c0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg4)"/>
+  <g fill="none" stroke="#f5c451" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".95">
+    <circle cx="490" cy="300" r="52"/>
+    <path d="M490 352v150M490 400l-90 60M490 400l90 60M490 502l-60 120M490 502l60 120"/>
+    <circle cx="730" cy="330" r="42" stroke="#f7f7f4" stroke-opacity=".55"/>
+    <path d="M730 372v120M730 410l-70 40M730 410l70 40M730 492l-45 100M730 492l45 100" stroke="#f7f7f4" stroke-opacity=".55"/>
+  </g>
+  <text x="600" y="720" font-family="Arial, Impact, sans-serif" font-size="66" font-weight="900" fill="#f7f7f4" text-anchor="middle" letter-spacing="3">PERSONAL TRAINING</text>
+</svg>
